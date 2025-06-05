@@ -27,4 +27,4 @@ Este es un proyecto simple de **Generador de Códigos QR** hecho con **HTML**, *
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/qr-generator.git
+   git clone https://github.com/crisescobaro/Generador-de-QR.git
